@@ -1,0 +1,32 @@
+PODS:
+  - DJI-SDK-iOS (4.13.1)
+  - DJI-UXSDK-iOS (4.13)
+  - DJIFlySafeDatabaseResource (01.00.01.17)
+  - DJINetworkRTKHelper (1.2)
+  - DJIWidget (1.6.3)
+
+DEPENDENCIES:
+  - DJI-SDK-iOS (~> 4.13.1)
+  - DJI-UXSDK-iOS (~> 4.12)
+  - DJIFlySafeDatabaseResource (~> 01.00.01.17)
+  - DJINetworkRTKHelper (~> 1.1)
+  - DJIWidget (~> 1.6.3)
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - DJI-SDK-iOS
+    - DJI-UXSDK-iOS
+    - DJIFlySafeDatabaseResource
+    - DJINetworkRTKHelper
+    - DJIWidget
+
+SPEC CHECKSUMS:
+  DJI-SDK-iOS: 8ec6e5e9199491339fed8021158bbf82d53751f3
+  DJI-UXSDK-iOS: 7894cad9fc0864ab6ab8f12a42714e3db6e0e74c
+  DJIFlySafeDatabaseResource: d2fab77e7c727fff3bd2362ed4cc43b92d566643
+  DJINetworkRTKHelper: a1bca9b699d054423d1bada4f49dd8d7895f0009
+  DJIWidget: 4f7cd300adc7e15f9fe27d61ebdbd3cc4d8389b3
+
+PODFILE CHECKSUM: 8165001a6d8e8af4ee0d7d83b754686a2406033a
+
+COCOAPODS: 1.9.3
